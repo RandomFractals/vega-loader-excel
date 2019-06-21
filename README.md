@@ -1,4 +1,4 @@
-# vega-loader-excel
+# vega-excel-data-loader
 Vega data loader for Excel data file formats
 
 See https://github.com/SheetJS/js-xlsx#file-formats 
